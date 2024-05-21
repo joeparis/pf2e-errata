@@ -111,6 +111,31 @@ You telepathically assail the minds of your foes. You deal mental damage equal t
 
 =
 
+The Tangible Dream, Page 21
+
+## The Tangible Dream ((+The Tangible Dream))
+
+You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures of force and light.
+**Granted Spells** 1st: *color spray*; 2nd: *mirror image*; 3rd: *sea of thought* (page 106); 4th: *resilient sphere*; 5th: *etheric shards* (page 105); 6th: *blade barrier*; 7th: *project image*; 8th: *scintillating pattern*; 9th: *prismatic sphere*
+**Standard Psi Cantrips** *figment* and *shield*
+**Unique Psi Cantrips** surface: imaginary weapon; deeper: astral
+rain; deepest: hologram cage
+
+### Figment
+
+Your minor illusions shift and dance. The range of *figment* increases to 60 feet. When you Sustain the spell, you can move the apparent sound or vision up to 15 feet. You can then attempt to Create a Diversion as usual. Those creatures who disbelieved the illusion aren’t affected by this diversion. Your *figment* also gains the following amp.
+
+**Amp** When you amp the spell, you can create a particularly distracting illusion as part of its normal effects. Choose an unoccupied square within the spell’s range. The illusion in that square provides flanking for a single melee attack made before the beginning of your next turn. If you Sustain the spell, the details of the illusion change and shift to keep your enemies unsettled; the flanking illusion’s duration extends until the beginning of your next turn and you can move it to any unoccupied square in the spell’s range. The flanking illusion can’t provide its benefit against any creature who has disbelieved the *figment*.
+
+### Shield
+Your *shield* spell can be deployed on behalf of others. When you cast *shield*, you can choose a target ally within 30 feet to gain the benefits of the spell instead of you. The option to Shield Block with the spell is up to you and uses your reaction, not the target’s. Your *shield* also gains the following amp.
+
+|
+
+/
+
+=
+
 Imaginary Weapon Cantrip & Astral Rain Cantrip, Page 22
 
 /
@@ -152,31 +177,6 @@ You fling a mass of furious thoughts into the air, where they expand into numero
 -
 **Amp** The area changes to a 5-foot burst, and you can Sustain the Spell up to 1 minute. The first time each round that you Sustain the Spell, you can move the burst up to 20 feet.
 )
-
-=
-
-The Tangible Dream, Page 21
-
-## The Tangible Dream ((+The Tangible Dream))
-
-You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures of force and light.
-**Granted Spells** 1st: *color spray*; 2nd: *mirror image*; 3rd: *sea of thought* (page 106); 4th: *resilient sphere*; 5th: *etheric shards* (page 105); 6th: *blade barrier*; 7th: *project image*; 8th: *scintillating pattern*; 9th: *prismatic sphere*
-**Standard Psi Cantrips** *figment* and *shield*
-**Unique Psi Cantrips** surface: imaginary weapon; deeper: astral
-rain; deepest: hologram cage
-
-### Figment
-
-Your minor illusions shift and dance. The range of *figment* increases to 60 feet. When you Sustain the spell, you can move the apparent sound or vision up to 15 feet. You can then attempt to Create a Diversion as usual. Those creatures who disbelieved the illusion aren’t affected by this diversion. Your *figment* also gains the following amp.
-
-**Amp** When you amp the spell, you can create a particularly distracting illusion as part of its normal effects. Choose an unoccupied square within the spell’s range. The illusion in that square provides flanking for a single melee attack made before the beginning of your next turn. If you Sustain the spell, the details of the illusion change and shift to keep your enemies unsettled; the flanking illusion’s duration extends until the beginning of your next turn and you can move it to any unoccupied square in the spell’s range. The flanking illusion can’t provide its benefit against any creature who has disbelieved the *figment*.
-
-### Shield
-Your *shield* spell can be deployed on behalf of others. When you cast *shield*, you can choose a target ally within 30 feet to gain the benefits of the spell instead of you. The option to Shield Block with the spell is up to you and uses your reaction, not the target’s. Your *shield* also gains the following amp.
-
-|
-
-/
 
 =
 
