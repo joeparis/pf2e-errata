@@ -2,7 +2,7 @@ watermark (
 Dark Archive
 )
 
-Dancing Blade Cantrip, Page 17
+Page 17
 
 /
 
@@ -32,7 +32,7 @@ Heightened (+2) The damage increases by 1d6.
 
 =
 
-The Oscillating Wave, Page 19
+Page 19
 
 /
 
@@ -67,7 +67,7 @@ Your *frostbite* reaches even further. The range increases to 180 feet. Your *fr
 
 =
 
-Forbidden Thought Cantrip & Shatter Mind Cantrip, Page 21
+Page 21
 
 /
 
@@ -111,7 +111,7 @@ You telepathically assail the minds of your foes. You deal mental damage equal t
 
 =
 
-The Tangible Dream, Page 21
+Page 21
 
 ## The Tangible Dream ((+The Tangible Dream))
 
@@ -136,7 +136,7 @@ Your *shield* spell can be deployed on behalf of others. When you cast *shield*,
 
 =
 
-Imaginary Weapon Cantrip & Astral Rain Cantrip, Page 22
+Page 22
 
 /
 
@@ -180,7 +180,7 @@ You fling a mass of furious thoughts into the air, where they expand into numero
 
 =
 
-Thaumaturge Weapon Expertise, Page 34
+Page 34
 
 /
 
@@ -194,7 +194,7 @@ You’ve learned the secret ways your weapons work most effectively. Your profic
 
 =
 
-Weapon Mastery, Page 35
+Page 35
 
 /
 
@@ -208,7 +208,7 @@ You fully understand your weapons. Your proficiency ranks for unarmed attacks, s
 
 =
 
-Master Psychic Spellcasting & Expert Psychic Spellcasting, Page 48
+Page 48
 
 /
 
@@ -236,7 +236,7 @@ You gain the expert spellcasting benefits (Core Rulebook 219).
 
 =
 
-Phase Bolt Cantrip, Page 106
+Page 106
 
 /
 
