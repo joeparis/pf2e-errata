@@ -98,7 +98,7 @@ item (
 -
 This *+1 striking whip* is crafted from the vine of a dangerous plant creature. It deals bludgeoning or slashing damage, according to the vine attack of the creature it was harvested from. For example, collecting a vine from an assassin vine would result in a *vine whip* that deals bludgeoning damage, while one from a mandragora or viper vine would deal piercing damage.
 **Activate** :aaa: command, Interact; **Requirements** You have soil or sand within your reach; **Effect** You Release the weapon and plant it in the ground, where it takes root and fights on its own against the last enemy you attacked or the nearest enemy to it if your target has been defeated.
-    The weapon has a space of 5 feet, acts on your initiative, and gains two actions. It doesn’t block or impede enemies attempting to move though that space, nor does it benefit from or provide flanking. The weapon can’t use reactions, and it acts on your turn.
+    The weapon has a space of 5 feet, acts on your initiative, and gains two actions. It doesn't block or impede enemies attempting to move though that space, nor does it benefit from or provide flanking. The weapon can't use reactions, and it acts on your turn.
     While Activated, a *vine whip* makes Strikes with an attack modifier of +22 plus its item bonus to attack   rolls (normally +24 total). It uses the weapon's normal damage but has a +0 Strength modifier. The whip's abilities that automatically trigger on a hit or critical hit still function, but the weapon can't be  Activated or benefit from any of your abilities while rooted.
     Each round, when the  *vine whip* is finished using its actions, attempt a DC 6 flat check. On a failure, the Activation ends and the *vine whip* becomes inanimate. You can't Activate the item again for 10 minutes. Removing the *vine whip* from the ground takes an Interact action.
     While rooted, the *vine whip* gains fast healing 1.
@@ -116,7 +116,7 @@ Page 41
 info (
 ## New Familiar Ability
 
-Your familiar can act as a bomb coagulant alembic (page 63) by swallowing the bomb to be affected, which takes two Interact actions from it and one from you. Your familiar regurgitates the concentrated item 1 minute later. If your familiar tries to distill a bomb that’s level is higher than your own —1, it instead takes damage as though it were successfully struck with the bomb.
+Your familiar can act as a bomb coagulant alembic (page 63) by swallowing the bomb to be affected, which takes two Interact actions from it and one from you. Your familiar regurgitates the concentrated item 1 minute later. If your familiar tries to distill a bomb that's level is higher than your own —1, it instead takes damage as though it were successfully struck with the bomb.
 )
 
 |
@@ -134,7 +134,7 @@ item (
 
 **Activate** :a: Interact
 -
-Ooze ammunition is a capsule containing a sticky substance. If you hit a creature with activated ooze ammunition, it deals acid damage instead of its normal damage type, and the creature then takes the listed penalty to Speed and persistent acid damage until it ends the effects. On a critical hit, the creature is immobilized for 1 round in addition to the other effects. The target can end the effects by Escaping the sticky foam. Other creatures can provide the actions, although doing so deals half the ammunition’s persistent acid damage to the assisting creature. A creature that ends the effect still takes the persistent damage that turn.
+Ooze ammunition is a capsule containing a sticky substance. If you hit a creature with activated ooze ammunition, it deals acid damage instead of its normal damage type, and the creature then takes the listed penalty to Speed and persistent acid damage until it ends the effects. On a critical hit, the creature is immobilized for 1 round in addition to the other effects. The target can end the effects by Escaping the sticky foam. Other creatures can provide the actions, although doing so deals half the ammunition's persistent acid damage to the assisting creature. A creature that ends the effect still takes the persistent damage that turn.
 -
 **Type** lesser; **Level** 2; **Price** 7 gp
 The ammunition deals 1d4 persistent acid damage and imposes a –5-foot penalty to Speed, and the Escape DC is 16.
@@ -190,9 +190,9 @@ item (
 
 **Activate** :a: command
 -
-A glistening, tar-like substance that’s displeasing to the touch coats a *black tendril shot*. When the activated ammunition hits a target, it exudes tendrils that encase the target, which must attempt a Fortitude saving throw. The ammunition’s effects last until the target Escapes. DCs for the saving throw and Escape vary by type.
+A glistening, tar-like substance that's displeasing to the touch coats a *black tendril shot*. When the activated ammunition hits a target, it exudes tendrils that encase the target, which must attempt a Fortitude saving throw. The ammunition's effects last until the target Escapes. DCs for the saving throw and Escape vary by type.
 **Critical Success** The target is unaffected.
-**Success** The target is slowed 1 but gains a +2 circumstance bonus to Escape the ammunition’s effect.
+**Success** The target is slowed 1 but gains a +2 circumstance bonus to Escape the ammunition's effect.
 **Failure** The target is slowed 1.
 **Critical Failure** The target is slowed 2.
 -
@@ -217,17 +217,17 @@ item (
 ## Item 13+
 -
 ;uncommon,conjuration,consumable,magical,talisman
-**Usage** affixed to explorer’s clothing (or another item in the
+**Usage** affixed to explorer's clothing (or another item in the
 unarmored defense category); **Bulk** -
 
 **Activate** :f: envision; **Trigger** You would be reduced to 0 Hit Points by damage but not immediately killed; **Requirements** You are unarmored.
 -
-This tiny crystal vial of oily liquid is typically attached to a pin or worn on a tether attached to the affixed article of clothing. When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your wounded condition increases by 1, and the talisman casts *drop dead* on you. You and any items you’re wearing and holding are instantly transported from your current space to a clear space of your choice within range. You take no damage from the triggering effect. If you are carrying another creature (even one contained inside an extradimensional container), it’s left behind in your original space.
+This tiny crystal vial of oily liquid is typically attached to a pin or worn on a tether attached to the affixed article of clothing. When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your wounded condition increases by 1, and the talisman casts *drop dead* on you. You and any items you're wearing and holding are instantly transported from your current space to a clear space of your choice within range. You take no damage from the triggering effect. If you are carrying another creature (even one contained inside an extradimensional container), it's left behind in your original space.
 -
 **Type** *false death vial*; **Level** 13; **Price** 600 gp
 -
 **Type** greater *false death vial*; **Level** 16; **Price** 2,000 gp
-The talisman also teleports you to a clear space of your choice that you can see within 120 feet. This also transports any items you’re wearing and holding with you, but if this would bring another creature with you—even if you’re carrying it in an extradimensional container—the teleportation is canceled. This effect has the teleportation trait.
+The talisman also teleports you to a clear space of your choice that you can see within 120 feet. This also transports any items you're wearing and holding with you, but if this would bring another creature with you—even if you're carrying it in an extradimensional container—the teleportation is canceled. This effect has the teleportation trait.
 )
 
 |
@@ -246,7 +246,7 @@ item (
 -
 This pageless grimoire is made up of two durable covers that open to display a small ritual circle. When you first invest the grimoire, you and your familiar each press a limb to a corner of the mat. The ritual circle then morphs to one matching the tradition of your patron, the spells contained in your familiar appearing in the margins. During your daily preparations, your familiar performs a small jaunt around the open ritual circle to strengthen its connection to your patron.
 
-**Activate** :f: envision (metamagic); Frequency once per 10 minutes; Effect If your next action is to cast one of the granted spells from your patron’s theme or one of the spells your familiar learned from a lesson, your patron takes notice that you’re putting their power to good use and strengthens your familiar with a surge of magic. Your familiar Sustains one of your Spells.
+**Activate** :f: envision (metamagic); Frequency once per 10 minutes; Effect If your next action is to cast one of the granted spells from your patron's theme or one of the spells your familiar learned from a lesson, your patron takes notice that you're putting their power to good use and strengthens your familiar with a surge of magic. Your familiar Sustains one of your Spells.
 )
 
 |
@@ -266,7 +266,7 @@ item (
 Northern peoples design magical tattoos to protect against wintry weather, typically in geometric patterns with a combination of straight lines and whorls. This tattoo negates any damage you take from severe environmental cold and reduces damage
 you take from extreme cold to equal that of severe cold.
 
-**Activate** :f: envision; **Frequency** once per day; **Effect** Until the end of your next turn, you ignore difficult terrain and greater difficult terrain from ice and snow and don’t risk falling when crossing ice.
+**Activate** :f: envision; **Frequency** once per day; **Effect** Until the end of your next turn, you ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice.
 )
 
 |
@@ -282,7 +282,7 @@ item (
 ;magical,staff,transmutation
 **Usage** held in 1 hand; **Bulk** 1
 -
-A multi-hued array of scales covers a *dragonscale staff*, forming a gradient of color, and a dragon’s claw holds a gem upon the staff’s head. Dragons give allies these staves as a mark of esteem. While wielding a *dragonscale staff* you seem fiercer, gaining a +1 circumstance bonus to Intimidation checks to Demoralize.
+A multi-hued array of scales covers a *dragonscale staff*, forming a gradient of color, and a dragon's claw holds a gem upon the staff's head. Dragons give allies these staves as a mark of esteem. While wielding a *dragonscale staff* you seem fiercer, gaining a +1 circumstance bonus to Intimidation checks to Demoralize.
 **Activate** Cast a Spell; **Effect** You expend a number of charges
 from the staff to cast a spell from its list.
 -
