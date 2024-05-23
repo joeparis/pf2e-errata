@@ -31,5 +31,31 @@
 			")"
 		],
 		"description": "Item"
+	},
+	"item": {
+		"scope": "markdown",
+		"prefix": "feat",
+		"body": [
+			"Page $1",
+			"",
+			"item (",
+			"# ${2:Name of feat}",
+			"## Feat ${3:10}",
+			"-",
+			";${4:Trait,Trait,Trait}",
+			"**Prerequisites** $5",
+			"**Frequency** $6",
+			"**Trigger** $7",
+			"**Requirements** $8",
+			"-",
+			"$0",
+			")",
+			"",
+			"|",
+			"",
+			"=",
+			""
+		],
+		"description": "Feat"
 	}
 }
